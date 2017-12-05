@@ -44,22 +44,14 @@ logo{
 	position: static;
 }
 
-.description table{
-	margin: auto;
-	padding: 0px;
-	border-collapse: collapse;
-	border-width: 0px;
-	display: block;
-	overflow: auto;
-}
-
 .description figure{
 	padding: 0;
 }
 
-.list{
+.list li{
 	width: 40%;
 	margin: auto;
+    list-style: none;
 }
 
 
